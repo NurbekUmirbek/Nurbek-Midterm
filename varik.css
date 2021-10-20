@@ -1,0 +1,299 @@
+.header{
+	display: block;
+	padding-left: 1100px;
+	padding-right: 30px;
+	border-bottom: black solid 1px;
+}
+.rectangle{
+	position: absolute;
+width: 48px;
+height: 48px;
+left: 80px;
+top: 49px;
+background: #F3F4F6;
+border: black solid 2px;
+}
+.rectangle1{
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 33.33%;
+bottom: 66.67%;
+border: 1.5px solid #111827;}
+.rectangle2{
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 62.5%;
+bottom: 37.5%;
+border: 1.5px solid #111827;}
+.headeer{
+display: inline-block;
+flex-direction: row;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+padding-left: 50px;
+}
+.front{
+	position: absolute;
+width: 540px;
+height: 85px;
+left: 293px;
+top: 351px;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 85px;
+letter-spacing: 0.02em;
+}
+.imgg{
+	position: absolute;
+width: 659.26px;
+height: 800px;
+left: 624px;
+top: 199px;
+}
+.mynameis{
+	position: absolute;
+width: 215px;
+height: 24px;
+left: 293px;
+top: 327px;
+font-family: Playfair Display;
+font-style: italic;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #9CA3AF;
+}
+.currently{
+	position: absolute;
+width: 320px;
+height: 23px;
+left: 293px;
+top: 550px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+color: #9CA3AF;
+}
+.show{
+	position: absolute;
+width: 132px;
+height: 26px;
+left: 293px;
+top: 650px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+text-decoration-line: underline;
+color: #111827;
+}
+.resume{
+	position: absolute;
+width: 74px;
+height: 26px;
+left: 450px;
+top: 650px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+text-decoration-line: underline;
+color: #111827;
+}
+.scroll{
+position: absolute;
+width: 175px;
+height: 21px;
+left: 92px;
+top: 858px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+transform: rotate(-90deg);
+}
+
+.about{
+position: absolute;
+width: 96px;
+height: 26px;
+left: 80px;
+top: 1148px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+}
+
+.multi{
+	position: absolute;
+width: 342px;
+height: 90px;
+left: 507px;
+top: 1148px;
+}
+.speak{
+	position: absolute;
+width: 243px;
+height: 30px;
+left: 507px;
+top: 1286px;
+}
+.work{
+position: absolute;
+width: 273px;
+height: 60px;
+left: 507px;
+top: 1364px;
+}
+.img2{
+position: absolute;
+width: 311px;
+height: 311px;
+left: 1049px;
+top: 1148px;
+}
+
+.works1{
+	position: absolute;
+width: 61px;
+height: 26px;
+left: 80px;
+top: 1748px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+}
+.workk1{
+	position: absolute;
+width: 300px;
+height: 240px;
+left: 293px;
+top: 1748px;
+}
+.workk2{
+position: absolute;
+width: 300px;
+height: 240px;
+left: 933px;
+top: 1998px;
+}
+.workk3{
+	position: absolute;
+width: 300px;
+height: 240px;
+left: 293px;
+top: 2248px;
+}
+.workk4{
+	position: absolute;
+width: 300px;
+height: 240px;
+left: 933px;
+top: 2513px;
+
+}
+.text1{
+	position: absolute;
+width: 283px;
+height: 29.32px;
+left: 881px;
+top: 1838px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+}
+.text2{
+	position: absolute;
+width: 321px;
+height: 26px;
+left: 434px;
+top: 2090px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+}
+.text3{
+	position: absolute;
+width: 300px;
+height: 26px;
+left: 872px;
+top: 2340px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+}
+.text4{
+	position: absolute;
+width: 268px;
+height: 26px;
+left: 449px;
+top: 2605px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+}
+.email{
+	position: absolute;
+width: 758px;
+height: 85px;
+left: 293px;
+top: 3086px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 65px;
+line-height: 85px;
+}
+.please{
+	position: absolute;
+width: 447px;
+height: 26px;
+left: 293px;
+top: 3200px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+}
+.contact{
+	position: absolute;
+width: 80px;
+height: 26px;
+left: 80px;
+top: 3118px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+}
